@@ -18,6 +18,3 @@
 - osrm backend
 - elasticsearch 7.10
 - nginx
-- jsoncpp
-- tinyxml2
-- libcurl
